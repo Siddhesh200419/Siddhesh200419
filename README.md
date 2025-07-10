@@ -1,5 +1,5 @@
 # 💫 About Me:
-### Hi there, I'm Siddhesh! 👋  <br><br>🚀 **About Me:**  <br>🔭 Passionate about AI, Blockchain, and Full-Stack Development.  <br>👯 Open to collaborations in tech & innovation.  <br>🌱 Always learning and exploring new technologies.  <br>💬 Ask me about web development, AI, and cybersecurity.  <br>⚡ Fun fact: I write code that works... sometimes on the first try. 😎  <br><br>### 📫 Connect with Me:  <br>[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/siddhesh-gite-024aa5257/)  <br>[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/Siddhesh200419)  <br><br>🚀 **Let's build something amazing!**  <br>
+### Hi there, I'm Siddhesh! 👋  <br><br>🚀 **About Me:**  <br>🔭 Passionate about Full-Stack Development.<br><br>### 📫 Connect with Me:  <br>[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/siddhesh-gite-024aa5257/)  <br>[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/Siddhesh200419)  <br><br>🚀 **Let's build something amazing!**  <br>
 
 
 ## 🌐 Socials:
